@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:maidoleric",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:maidoleric",
+      "model": "cobblemon:maidoleric.geo",
+      "texture": "cobblemon:textures/pokemon/maidoleric/maidoleric.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/maidoleric/maidoleric_shiny.png"
+    }
+  ]
+}
