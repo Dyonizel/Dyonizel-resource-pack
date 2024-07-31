@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebbleinsecte",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebbleinsecte",
+      "model": "cobblemon:pebbleinsecte.geo",
+      "texture": "cobblemon:textures/pokemon/pebbleinsecte/pebbleinsecte.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebbleinsecte/pebbleinsecte_shiny.png"
+    }
+  ]
+}

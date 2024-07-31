@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebblepoison",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebblepoison",
+      "model": "cobblemon:pebblepoison.geo",
+      "texture": "cobblemon:textures/pokemon/pebblepoison/pebblepoison.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebblepoison/pebblepoison_shiny.png"
+    }
+  ]
+}

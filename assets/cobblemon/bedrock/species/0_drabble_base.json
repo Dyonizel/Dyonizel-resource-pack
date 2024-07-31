@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:drabble",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:drabble",
+      "model": "cobblemon:drabble.geo",
+      "texture": "cobblemon:textures/pokemon/drabble/drabble.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/drabble/drabble_shiny.png"
+    }
+  ]
+}

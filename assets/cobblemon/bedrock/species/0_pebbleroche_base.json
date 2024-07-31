@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebbleroche",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebbleroche",
+      "model": "cobblemon:pebbleroche.geo",
+      "texture": "cobblemon:textures/pokemon/pebbleroche/pebbleroche.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebbleroche/pebbleroche_shiny.png"
+    }
+  ]
+}

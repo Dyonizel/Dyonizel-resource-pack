@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebbleau",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebbleau",
+      "model": "cobblemon:pebbleau.geo",
+      "texture": "cobblemon:textures/pokemon/pebbleau/pebbleau.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebbleau/pebbleau_shiny.png"
+    }
+  ]
+}

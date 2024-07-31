@@ -1,6 +1,25 @@
 {
   "cobblemon.species.pebble.desc1": "Voici Pebble: petit, marron, rond, il vous accompagnera partout à très grande vitesse même si vous le ne voulez pas.",
   "cobblemon.species.pebble.desc2": "Si dans l'éventualité un pebble n'a plus de point de vie, il se téléportera dans une autre dimension à la recherche d'un MÉDIC !",
+
+  "cobblemon.species.pebbleacier.name": "Pebblacier",
+  "cobblemon.species.pombat.name": "Pombat",
+  "cobblemon.species.drabble.name": "Drabble",
+  "cobblemon.species.pebbleau.name": "Pebbleau",
+  "cobblemon.species.pebbelec.name": "Pebbelec",
+  "cobblemon.species.pebblefee.name": "Pebble Copperfield",
+  "cobblemon.species.pebblefeu.name": "Juan Pebble",
+  "cobblemon.species.pebbleglace.name": "Pebble glace",
+  "cobblemon.species.pebbleinsecte.name": "Pebblebug",
+  "cobblemon.species.pebbleplante.name": "Pebbweed",
+  "cobblemon.species.pebblepoison.name": "I'm the Trash Man",
+  "cobblemon.species.pebblepsy.name": "Pebbsy",
+  "cobblemon.species.pebbleroche.name": "Pebbwarf",
+  "cobblemon.species.pebblesol.name": "Pebbaupiqueur",
+  "cobblemon.species.pebboo.name": "Pebboo",
+  "cobblemon.species.pebbletenebre.name": "Dark Pebble",
+  "cobblemon.species.pebblevol.name": "Pebblikaze",
+
   "cobblemon.species.maidoleric.desc1": "Maidoleric; le résultat d'une expérience qui a mal tournée où la progéniture de Dieu a créer ceci.",
   "cobblemon.species.maidoleric.desc2": "Si vous recenter tous trouble en observant ce pokemon, ceci est normal, il sagit d'un mélange du charisme de Marcoleric et de l'absence de figure paternel."
 }

@@ -1,0 +1,104 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "SecondaryRoot",
+					"parent": "Root",
+					"pivot": [0, 0, 0],
+					"rotation": [0, -90, 0]
+				},
+				{
+					"name": "body",
+					"parent": "SecondaryRoot",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 1, -3], "size": [5, 5, 6], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "tusck",
+					"parent": "body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 2, 3], "size": [2, 2, 0], "uv": [0, 2]},
+						{"origin": [-4, 2, -3], "size": [2, 2, 0], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "nose",
+					"parent": "body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-3, 1, -2.5], "size": [0, 4, 5], "uv": [21, 6]},
+						{"origin": [-3, 2, -1.5], "size": [1, 2, 3], "uv": [27, 26]}
+					]
+				},
+				{
+					"name": "eyes",
+					"parent": "body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2.01, 4, -2.5], "size": [0, 6, 5], "uv": [20, 13]}
+					]
+				},
+				{
+					"name": "eyes_lid",
+					"parent": "body",
+					"pivot": [-2, 9, 0],
+					"cubes": [
+						{"origin": [-2.1, 4, -2.5], "size": [0, 5, 5], "uv": [20, 19]}
+					]
+				},
+				{
+					"name": "chapeau",
+					"parent": "body",
+					"pivot": [1.5, 0.05, 0],
+					"rotation": [0, -90, 0],
+					"cubes": [
+						{"origin": [-2.5, 6.06, -1.5], "size": [8, 0, 5], "uv": [0, 11]},
+						{"origin": [-0.9, 6.05, -0.5], "size": [5, 6, 3], "uv": [2, 19]}
+					]
+				},
+				{
+					"name": "baguette",
+					"parent": "body",
+					"pivot": [-2, 1, -5.5],
+					"rotation": [0, 90, 0],
+					"cubes": [
+						{"origin": [-14, 0.99, -6.49], "size": [13, 1, 1], "uv": [0, 16]}
+					]
+				},
+				{
+					"name": "feet1",
+					"parent": "SecondaryRoot",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1, 0, -4], "size": [3, 2, 2], "uv": [22, 4]}
+					]
+				},
+				{
+					"name": "feet2",
+					"parent": "SecondaryRoot",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1, 0, 2], "size": [3, 2, 2], "uv": [16, 0]}
+					]
+				}
+			]
+		}
+	]
+}

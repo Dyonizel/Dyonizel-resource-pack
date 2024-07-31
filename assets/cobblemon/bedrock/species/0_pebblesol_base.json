@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebblesol",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebblesol",
+      "model": "cobblemon:pebblesol.geo",
+      "texture": "cobblemon:textures/pokemon/pebblesol/pebblesol.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebblesol/pebblesol_shiny.png"
+    }
+  ]
+}

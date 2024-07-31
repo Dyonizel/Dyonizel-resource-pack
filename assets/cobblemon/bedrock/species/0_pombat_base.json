@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pombat",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pombat",
+      "model": "cobblemon:pombat.geo",
+      "texture": "cobblemon:textures/pokemon/pombat/pombat.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pombat/pombat_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebbleplante",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebbleplante",
+      "model": "cobblemon:pebbleplante.geo",
+      "texture": "cobblemon:textures/pokemon/pebbleplante/pebbleplante.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebbleplante/pebbleplante_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebblevol",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebblevol",
+      "model": "cobblemon:pebblevol.geo",
+      "texture": "cobblemon:textures/pokemon/pebblevol/pebblevol.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebblevol/pebblevol_shiny.png"
+    }
+  ]
+}

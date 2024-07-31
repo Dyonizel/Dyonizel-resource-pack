@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebbleacier",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebbleacier",
+      "model": "cobblemon:pebbleacier.geo",
+      "texture": "cobblemon:textures/pokemon/pebbleacier/pebbleacier.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebbleacier/pebbleacier_shiny.png"
+    }
+  ]
+}
