@@ -7,13 +7,26 @@
       "poser": "cobblemon:pebbelec",
       "model": "cobblemon:pebbelec.geo",
       "texture": "cobblemon:textures/pokemon/pebbelec/pebbelec.png",
-      "layers": []
-    },
+      "layers": [
+        {
+          "name": "glow",
+           "texture": "cobblemon:textures/pokemon/pebbelec/pebbelec_translucent.png",
+           "translucent": true
+          }
+      ]
+    }, 
     {
       "aspects": [
         "shiny"
       ],
-      "texture": "cobblemon:textures/pokemon/pebbelec/pebbelec_shiny.png"
+      "texture": "cobblemon:textures/pokemon/pebbelec/pebbelec_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+           "texture": "cobblemon:textures/pokemon/pebbelec/pebbelec_shiny_translucent.png",
+           "translucent": true
+          }
+      ]
     }
   ]
 }
