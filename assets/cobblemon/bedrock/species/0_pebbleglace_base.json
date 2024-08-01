@@ -1,16 +1,16 @@
 {
-  "species": "cobblemon:pebbleglacev2",
+  "species": "cobblemon:pebbleglace",
   "order": 0,
   "variations": [
     {
       "aspects": [],
-      "poser": "cobblemon:pebbleglacev2",
-      "model": "cobblemon:pebbleglacev2.geo",
-      "texture": "cobblemon:textures/pokemon/pebbleglacev2/pebbleglacev2.png",
+      "poser": "cobblemon:pebbleglace",
+      "model": "cobblemon:pebbleglace.geo",
+      "texture": "cobblemon:textures/pokemon/pebbleglace/pebbleglace.png",
       "layers": [
         {
         "name": "glow",
-         "texture": "cobblemon:textures/pokemon/pebbleglacev2/pebbleglacev2_translucent.png",
+         "texture": "cobblemon:textures/pokemon/pebbleglace/pebbleglace_translucent.png",
          "translucent": true
         }
       ]
@@ -19,11 +19,11 @@
       "aspects": [
         "shiny"
       ],
-      "texture": "cobblemon:textures/pokemon/pebbleglacev2/pebbleglacev2_shiny.png",
+      "texture": "cobblemon:textures/pokemon/pebbleglace/pebbleglace_shiny.png",
       "layers": [
         {
         "name": "glow",
-         "texture": "cobblemon:textures/pokemon/pebbleglacev2/pebbleglacev2_shiny_translucent.png",
+         "texture": "cobblemon:textures/pokemon/pebbleglace/pebbleglace_shiny_translucent.png",
          "translucent": true
         }
       ]
