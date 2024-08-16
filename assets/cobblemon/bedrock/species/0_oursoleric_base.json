@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:oursoleric",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:oursoleric",
+      "model": "cobblemon:oursoleric.geo",
+      "texture": "cobblemon:textures/pokemon/oursoleric/oursoleric.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/oursoleric/oursoleric_shiny.png"
+    }
+  ]
+}
