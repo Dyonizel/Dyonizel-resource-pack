@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:egg",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:egg",
+      "model": "cobblemon:egg.geo",
+      "texture": "cobblemon:textures/pokemon/egg/egg.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/egg/egg_shiny.png"
+    }
+  ]
+}

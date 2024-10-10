@@ -24,5 +24,9 @@
   "cobblemon.species.maidoleric.desc2": "Si vous ressentez tout trouble en observant ce pokemon, ceci est normal, il sagit d'un mélange du charisme de Marcoleric et de l'absence de figure paternel.",
 
   "cobblemon.species.oursoleric.name": "Oursoleric",
-  "cobblemon.species.oursoleric.desc1": "Je ne dirais rien, sinon je me fais BAN."
+  "cobblemon.species.oursoleric.desc1": "Je ne dirais rien, sinon je me fais BAN.",
+
+  "cobblemon.species.egg.name": "Eggdog",
+  "cobblemon.species.egg.desc1": "Ce petit être plein de mignonnerie, venant d'internet est apparu récemment lors d'un transfert de photo d'oeuf et de l'installation de Nintendog sur l'ordinateur du seigneur des memes.",
+  "cobblemon.species.egg.desc2": "Devenu concurrent de l'espèce des pebbles, son dévellopement dans notre univers Minecraftien reste pour le moins mystérieux, étrange, avec un peu de sel dessus et pas trop cuit."
 }
