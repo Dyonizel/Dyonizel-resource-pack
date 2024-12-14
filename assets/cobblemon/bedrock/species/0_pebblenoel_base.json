@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebblenoel",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebblenoel",
+      "model": "cobblemon:pebblenoel.geo",
+      "texture": "cobblemon:textures/pokemon/pebblenoel/pebblenoel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebblenoel/pebblenoel_shiny.png"
+    }
+  ]
+}

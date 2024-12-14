@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebblesapin",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebblesapin",
+      "model": "cobblemon:pebblesapin.geo",
+      "texture": "cobblemon:textures/pokemon/pebblesapin/pebblesapin.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebblesapin/pebblesapin_shiny.png"
+    }
+  ]
+}

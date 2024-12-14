@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebbleflocon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebbleflocon",
+      "model": "cobblemon:pebbleflocon.geo",
+      "texture": "cobblemon:textures/pokemon/pebbleflocon/pebbleflocon.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebbleflocon/pebbleflocon_shiny.png"
+    }
+  ]
+}

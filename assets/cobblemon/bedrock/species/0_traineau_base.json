@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:traineau",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:traineau",
+      "model": "cobblemon:traineau.geo",
+      "texture": "cobblemon:textures/pokemon/traineau/traineau.png",
+      "layers": []
+    }
+  ]
+}

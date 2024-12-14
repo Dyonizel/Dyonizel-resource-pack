@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:pebblebouledeneige",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pebblebouledeneige",
+      "model": "cobblemon:pebblebouledeneige.geo",
+      "texture": "cobblemon:textures/pokemon/pebblebouledeneige/pebblebouledeneige.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/pebblebouledeneige/pebblebouledeneige_shiny.png"
+    }
+  ]
+}
